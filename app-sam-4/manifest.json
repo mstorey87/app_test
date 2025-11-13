@@ -299,8 +299,15 @@
         "Maintainer": "Milton Woods <miltonjwoods@gmail.com>",
         "Repository": "CRAN",
         "Date/Publication": "2025-04-30 05:30:02 UTC",
-        "Built": "R 4.5.2; x86_64-w64-mingw32; 2025-11-01 00:55:33 UTC; windows",
-        "Archs": "x64"
+        "Built": "R 4.5.2; x86_64-w64-mingw32; 2025-11-08 02:04:35 UTC; windows",
+        "Archs": "x64",
+        "RemoteType": "standard",
+        "RemoteRef": "RNetCDF",
+        "RemotePkgRef": "RNetCDF",
+        "RemoteRepos": "https://cran.rstudio.com",
+        "RemoteReposName": "CRAN",
+        "RemotePkgPlatform": "x86_64-w64-mingw32",
+        "RemoteSha": "2.11-1"
       }
     },
     "RPostgres": {
