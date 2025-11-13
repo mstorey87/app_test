@@ -1,0 +1,12 @@
+name: app-sam-4
+title: app-sam-4
+username: mstore10
+account: mstore10
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16052698
+bundleId: 11172076
+url: https://mstore10.shinyapps.io/app-sam-4/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

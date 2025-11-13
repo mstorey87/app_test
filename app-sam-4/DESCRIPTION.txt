@@ -1,0 +1,25 @@
+Package: sam2shinyapp
+Type: Application
+Title: SAM2 Shiny App
+Version: 0.1.0
+Author: Michael Storey
+Description: A Shiny app that runs Segment Anything Model 2 (SAM2) with PyTorch through reticulate.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+
+# --- R package dependencies ---
+Imports:
+  shiny,
+reticulate,
+devtools,
+wfprogression,
+dplyr,
+ggplot2,
+leaflet,
+sf,
+mapedit
+
+# --- Remotes (for GitHub installs) ---
+Remotes:
+  mstorey87/wfprogression
