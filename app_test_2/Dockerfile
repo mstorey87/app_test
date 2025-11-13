@@ -12,3 +12,4 @@ EXPOSE 3838
 
 # Run Shiny server
 CMD ["/usr/bin/shiny-server"]
+#
