@@ -17,7 +17,7 @@ library(terra)
 library(sf)
 library(dplyr)
 
-#reticulate::use_condaenv(condaenv = "sam2_env")
+reticulate::use_condaenv(condaenv = "sam2_env")
 wfprogression:::fire_load_sam_once()
 
 # Helper Functions----------------------------------------------------------
